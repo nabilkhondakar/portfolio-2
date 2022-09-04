@@ -61,3 +61,18 @@ section {
     background-image: url(images/biography-bg.png);
     background-repeat:repeat;
 }
+.latest-work{
+    padding: 80px 0;
+}
+.latest-work h2{
+    text-align: center;
+}
+.work-sample{
+    width: 30%;
+    float: left;
+    margin-left: 3%;
+}
+.work-sample img{
+    width: 100%;
+    padding-top: 40px;
+}
